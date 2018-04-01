@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "473374458813",
+    "firebase_url": "https://berliantomodul6.firebaseio.com",
+    "project_id": "berliantomodul6",
+    "storage_bucket": "berliantomodul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473374458813:android:ac18a8c069fc8208",
+        "android_client_info": {
+          "package_name": "com.example.linggom.berianto_1202150016_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473374458813-6iijpt4jrdehue47ugvvflrcd87n0p8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq9NqcwwkIpZHgYPIs3e1kwKIWVV-Hpb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
